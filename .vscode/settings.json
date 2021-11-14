@@ -1,0 +1,7 @@
+{
+    "workbench.editor.closeOnFileDelete": false,
+    "python.venvPath": "/home/al/Anaconda3/envs",
+    "python.defaultInterpreterPath": "/home/al/anaconda3/envs/pytorch3d/bin",
+    "python.terminal.activateEnvironment": true
+    
+}
